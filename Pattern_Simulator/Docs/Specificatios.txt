@@ -1,0 +1,42 @@
+Program Menus 
+
+File Menu 
+=>Exit
+
+View Menu
+=>Toolbar
+=>Status Bar
+
+Pattern Menu
+ 
+=>Select Pattern Dialog
+
+A Combo Box with the Following Items
+
+Select Pattern
+ 
+Random Walk | This will animate Random Walk problem | Start form One Point (say 100, 100) and Move Randomly to the next x y point |  ie Move To LineTo to arbitray Points
+
+Spiral | Animate Spiral Motion with increasing Radius |
+
+Damped Harmonic Oscillator | see the Dampled harmonic Oscillaton Equation | 
+
+
+Operations Menu
+
+=>Start 
+
+=>Stop 
+
+Help Menu
+
+
+
+
+
+
+ 
+
+
+
+
